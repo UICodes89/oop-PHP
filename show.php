@@ -9,6 +9,10 @@
 
     	echo "My name is Manoj Shukla";
     }
+    public function __toString(){
+
+    	return "this object belongs to show class"; 
+    }
 
   }
 
